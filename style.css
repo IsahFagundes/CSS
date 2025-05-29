@@ -1,5 +1,5 @@
 .logovasco{
-    height: 350px;
+    height: 300px;
 }
 header{
 background-color: rgb(255, 78, 78);
@@ -7,5 +7,17 @@ background-color: rgb(255, 78, 78);
 
 main{
 background-color: dimgrey;
-height: 45px;
+height: 1660px;
+color: rgb(196, 191, 191);
+}
+
+.logotime{
+    height: 300px;
+}
+footer{
+    background-color: rgb(233, 91, 91);
+    color: rgb(110, 22, 22);
+}
+.treinador{
+    height: 350px;
 }
